@@ -1,6 +1,6 @@
 from datetime import time
 
-from models.create_invoices import CreateInvoices
+from app.models.create_invoices import CreateInvoices
 
 
 
