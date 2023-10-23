@@ -1,1 +1,4 @@
 .idea/
+privateKey.pem
+publicKey.pem
+app/models/__pycache__/
